@@ -1,0 +1,15 @@
+{
+  "name": "fda-recalls-api-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Drug, device, and food recall reports as structured JSON. Python, Node.js and cURL clients for the FDA Recalls API Scraper on Apify, pay per result.",
+  "main": "fda_recalls_api_scraper.mjs",
+  "scripts": {
+    "start": "node fda_recalls_api_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/fda-recalls-scraper/"
+}
